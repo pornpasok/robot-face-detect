@@ -1,7 +1,7 @@
 # robot-face-detect
 
 
-![Ton](images/ton.jpg)
+![Ton](images/detect_ton.png)
 
 ```
 # tree
