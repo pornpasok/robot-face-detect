@@ -17,7 +17,9 @@
 ├── object_tracker.py
 └── pyimagesearch
     └── centroidtracker.py
+```
 
+```
 # Age detection from images
 python3 detect_age.py --image images/ton.jpg --face face_detector --age age_detector
 
